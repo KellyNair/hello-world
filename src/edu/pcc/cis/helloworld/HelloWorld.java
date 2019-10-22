@@ -6,5 +6,13 @@ package edu.pcc.cis.helloworld;
 public class HelloWorld {
     public static void main(String[] args){
         System.out.println("Have a great day!");
+        char c = 'A';
+
+        do {
+            System.out.println(c);
+            c++;
+        } while (c <= 'Z');
     }
+
+
 }
