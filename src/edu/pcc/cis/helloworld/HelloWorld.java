@@ -1,0 +1,10 @@
+package edu.pcc.cis.helloworld;
+
+//author: Kelly Nair
+// date: 2019.21.10
+
+public class HelloWorld {
+    public static void main(String[] args){
+        System.out.println("Have a great day!");
+    }
+}
